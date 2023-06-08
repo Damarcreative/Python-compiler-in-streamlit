@@ -23,7 +23,7 @@ This is a simple web application built with Streamlit that allows you to compile
 4. The application will open in your browser at http://localhost:8501
 
 ## Usage
-1. In the first textarea, enter the list of Python libraries that need to be installed. Each library should be on a separate line.
+1. In the first textarea, enter a list of the Python libraries that need to be installed. Each library must be on a separate line. Don't create blank lines, especially at the end
 2. In the second textarea, enter the Python code that you want to compile and run.
 3. Click the "Run" button to execute the code. If there are any required libraries, they will be installed first. The output of the code will be displayed in the third textarea.
 4. Click the "Stop" button to stop the execution of the code (if applicable).
