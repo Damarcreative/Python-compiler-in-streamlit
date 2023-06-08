@@ -14,7 +14,7 @@ This is a simple web application built with Streamlit that allows you to compile
        pip install -r requirements.txt
 3. Run the Streamlit application:
     ```shell
-    streamlit run app.py
+    streamlit run python_compiler.py
 4. The application will open in your browser at http://localhost:8501
 
 ## Usage
@@ -39,6 +39,8 @@ Here's an example of how the Python Compiler Online application can be used:
     df = pd.DataFrame(data, columns=['A', 'B', 'C'])
     print(df)
 3. Click the "Run" button to execute the code and see the output in the third textarea.
+
+![example!](https://raw.githubusercontent.com/Damarcreative/Python-compiler-in-streamlit/main/assets/example.png "Streamlit run examle")
 
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
