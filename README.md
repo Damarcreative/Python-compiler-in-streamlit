@@ -1,6 +1,7 @@
 # Python Compiler Online
 
-[![Huggingface demo]([/assets/images/codey.jpg](https://raw.githubusercontent.com/Damarcreative/Python-compiler-in-streamlit/b97f6920b7948ec27eb1089f617828bdc7d53dc8/assets/huggingface.svg) 'Huggingface Demo')]([https://codecademy.com](https://huggingface.co/spaces/DamarJati/Python-Compiler))
+[![Huggingface Demo](https://raw.githubusercontent.com/Damarcreative/Python-compiler-in-streamlit/b97f6920b7948ec27eb1089f617828bdc7d53dc8/assets/huggingface.svg 'Huggingface Demo')]([https://codecademy.com](https://huggingface.co/spaces/DamarJati/Python-Compiler))
+
 
 This is a simple web application built with Streamlit that allows you to compile and run Python code online. It provides three text areas: one for listing required Python libraries to be installed, one for entering Python code to be compiled, and one for displaying the output.
 
