@@ -14,7 +14,7 @@ This is a simple web application built with Streamlit that allows you to compile
        pip install -r requirements.txt
 3. Run the Streamlit application:
     ```shell
-    streamlit run python_compiler.py
+    streamlit run app.py
 4. The application will open in your browser at http://localhost:8501
 
 ## Usage
